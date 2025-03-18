@@ -1,2 +1,15 @@
 # menu
 i choose the first option "budget data"
+
+i basically did an input command on visual studio for instance 
+
+def add_income(budget_data, amount, description):
+def add_expense(budget_data, amount, description):
+def show_balance(budget_data):
+def show_transaction_history(budget_data):
+def exit(budget_data):
+
+"def add_income(budget_data, amount, description):"
+we use the add income and the input needs to be budget data - meaning the iteam the amount - for exmaple if its 5 apples so it needs to be mentioned  and the description  - about the item
+
+update the data structure based on the received data structure from the function 
