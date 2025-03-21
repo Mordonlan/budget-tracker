@@ -54,6 +54,6 @@ def show_transaction_history(budget_data):
 basically an exmaple for the first function it creates a functuion called make depoists and it checks the following parameters budget data, amount and description
 afterwords it checks for balance and it add"+=" to the amount for exmaple if the client writes 100 to the existing 500 it adds to the current amount "100" which gets to "600"
 then it appends the results 
-
+# in order to make it work one will take each function and reimplament itfor exmaple remake my show_balance into your liking without changing to much of the original function 
 
 # the files i added are already with explantion in the function file and it has a seprate main file with a loop enabled so it ensures the transcation goes clean 
