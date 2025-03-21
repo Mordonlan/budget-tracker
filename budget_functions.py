@@ -11,7 +11,6 @@ def make_expense(budget_data, amount, description):
     else:
         print("Insufficient funds!")
 
-#adds a function to make an expense 
 
 def show_balance(budget_data):
     print(f"Current Balance: ${budget_data['balance']}")
