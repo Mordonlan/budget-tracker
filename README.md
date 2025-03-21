@@ -13,3 +13,6 @@ def exit(budget_data):
 we use the add income and the input needs to be budget data - meaning the iteam the amount - for exmaple if its 5 apples so it needs to be mentioned  and the description  - about the item
 
 update the data structure based on the received data structure from the function 
+
+
+# the files i added are already with explantion in the function file and it has a seprate main file with a loop enabled so it ensures the transcation goes clean 
