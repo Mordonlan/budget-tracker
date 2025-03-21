@@ -24,4 +24,12 @@ we use the add income and the input needs to be budget data - meaning the iteam 
 update the data structure based on the received data structure from the function 
 
 
+an example of a function with an explantion 
+```python
+def make_deposit(budget_data, amount, description):
+    budget_data["balance"] += amount
+    budget_data["transactions"].append({"type": "income", "amount": amount, "description": description})
+```
+
+
 # the files i added are already with explantion in the function file and it has a seprate main file with a loop enabled so it ensures the transcation goes clean 
